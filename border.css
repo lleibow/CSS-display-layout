@@ -1,0 +1,14 @@
+*
+*//before,
+*//after {
+  box-sizing: border-box;
+}
+
+.box-model {
+  box-sizing: border-box;
+  background-color: red;
+  width: 500px;
+  height: 300px;
+  padding: 28px;
+  border: 20px solid blue;
+}
