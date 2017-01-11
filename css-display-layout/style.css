@@ -1,0 +1,15 @@
+
+html {}
+
+img {}
+
+img {}
+
+header {
+    display: block;
+    line-height: 50px;
+    background-color: rgb(44, 44, 44);
+    margin-bottom: 1px;
+    color: rgb(250,250,250);
+    text-align: center;
+}
