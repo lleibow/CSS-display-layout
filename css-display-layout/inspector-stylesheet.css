@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <body> {
     display: inline-block;
 }
@@ -11,6 +11,7 @@ img {}
 
 img {
     width: 30%;
+    padding: 0px;
 }
 
 header {
@@ -31,8 +32,27 @@ h1 {
     font-size: 1em;
 }
 
-span {
+.grey {
     background-color: rgb(200,200,200);
     color: white;
     margin-right: 1px;
+}
+
+
+h2 {
+  background-color: 71EEB8;
+  line-height: 50px;
+  padding-left: 10px;
+  padding-right: 71%;
+  display: inline-block;
+}
+
+.photos {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.align {
+  width: 100%;
 }
